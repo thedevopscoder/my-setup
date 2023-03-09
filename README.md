@@ -4,6 +4,9 @@
 ## Windows Laptop
 
 
+# NodeJS 16.12.0
+winget install --id=OpenJS.NodeJS.LTS  -e --accept-package-agreements --accept-source-agreements
+
 ### Winget
 
 #### Google Chrome
