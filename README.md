@@ -1,10 +1,13 @@
 # DevOps Engineer Setup
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gghgh&label=Profile%20views&color=0e75b6&style=flat" alt="gghgh" /> </p>
 
 ## Windows Laptop
 
 
 ### Winget
+
+#### Google Chrome
+winget install -e --id Google.Chrome
 
 
 ### Azure 
@@ -14,6 +17,8 @@ winget install -e --id Microsoft.AzureStorageExplorer -e --source winget
 
 ##### Microsoft AzureCosmosEmulator
 winget install -e --id Microsoft.AzureCosmosEmulator
+
+https://learn.microsoft.com/en-us/azure/cosmos-db/emulator-command-line-parameters
 
 
 ##### Microsoft AzureStorageEmulator
@@ -118,5 +123,19 @@ winget install -e --id Kubernetes.minikube
 ##### kubectl
 winget install -e --id Kubernetes.kubectl
 
-#minikube
+#### minikube
 winget install minikube
+
+
+# chocolatey
+
+#### Google Chrome
+choco install googlechrome
+
+#### Node.js
+choco install nodejs-lts
+
+
+#### Azure Storage Explorer
+choco install microsoftazurestorageexplorer
+
