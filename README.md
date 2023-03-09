@@ -4,6 +4,10 @@
 ## Windows Laptop
 
 
+#### Spotify
+winget install --id=Spotify.Spotify  -e
+
+
 #### NodeJS 16.12.0
 winget install --id=OpenJS.NodeJS.LTS  -e --accept-package-agreements --accept-source-agreements
 
@@ -128,6 +132,9 @@ choco install powerbi -y
 
 #### Screen to Gif
 choco install screentogif.install -y
+
+#### Spotify
+choco install spotify -y
 
 
 ##### Postman
