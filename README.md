@@ -31,7 +31,7 @@ winget install --id Microsoft.AzureDataStudio -e --source winget
 winget install -e --id Microsoft.AzureCLI -e --source winget
 
 ##### Bicep Installation
-winget install -e --id Microsoft.Bicep --source winget
+winget install -e --id=Microsoft.Bicep --source winget
 
 ##### Power BI
 winget install -e --id Microsoft.PowerBI
@@ -40,8 +40,7 @@ winget install -e --id Microsoft.PowerBI
 ##### Windows Terminal
 winget install -e --id Microsoft.WindowsTerminal
 
-##### Apple Itunes Installer
-winget install -e --id Apple.iTunes
+
 
 
 ##### Microsoft PowerShell
@@ -148,6 +147,18 @@ choco install azure-cosmosdb-emulator
 ##### Azure Data Studio
 choco install azure-data-studio
 
+
+##### Azure CLI
+choco install azure-cli
+
+
+##### Power BI
+choco install powerbi
+
+# non work related
+
+##### Apple Itunes Installer
+winget install -e --id Apple.iTunes
 
 
 # Ubunut
