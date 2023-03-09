@@ -15,8 +15,6 @@ winget install -e --id Google.Chrome
 
 ### Azure 
 
-
-
 https://learn.microsoft.com/en-us/azure/cosmos-db/emulator-command-line-parameters
 
 
@@ -72,8 +70,6 @@ winget install --id Microsoft.VisualStudioCode -e --source winget
 
 ##### Draw io
 winget install -e --id JGraph.Draw
-
-
 
 ##### Docker 
 winget install --id Docker.DockerDesktop -e --source winget
@@ -152,14 +148,24 @@ choco install git-credential-manager-for-windows -y
 choco install azure-kubelogin -y
 
 #### SQL Server Management Studio
-choco install sql-server-management-studio - 
+choco install sql-server-management-studio -y
 
+#### Visual Studio Code
+choco install vscode -y
+
+# Additional Setups
+
+# Install Posh-Git
+Install-Module posh-git -Scope CurrentUser -Force
+Add-PoshGitToProfile -AllUsers -AllHosts
 
 # non work related
 
-
+#### Etcher
 choco install etcher -y
 
+
+#### Steam
 choco install steam -y
 
 ##### Lnes Kubernetes
@@ -174,6 +180,10 @@ winget install -e --id MongoDB.Shell
 
 ##### Apple Itunes Installer
 winget install -e --id Apple.iTunes
+
+
+#### Splah Display
+winget install -e --id Splashtop.SplashtopWiredXDisplay
 
 
 ##### Discord
