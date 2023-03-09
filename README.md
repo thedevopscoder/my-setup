@@ -15,11 +15,7 @@ winget install -e --id Google.Chrome
 
 ### Azure 
 
-##### Microsoft Azure Storage Explorer
-winget install -e --id Microsoft.AzureStorageExplorer -e --source winget
 
-##### Microsoft AzureCosmosEmulator
-winget install -e --id Microsoft.AzureCosmosEmulator
 
 https://learn.microsoft.com/en-us/azure/cosmos-db/emulator-command-line-parameters
 
@@ -140,5 +136,21 @@ choco install nodejs-lts
 
 
 #### Azure Storage Explorer
-choco install microsoftazurestorageexplorer
+choco install microsoftazurestorageexplorer -y
 
+##### Microsoft AzureCosmosEmulator
+choco install azure-cosmosdb-emulator -y
+
+##### Microsoft AzureCosmosEmulator
+choco install azure-cosmosdb-emulator
+
+
+##### Azure Data Studio
+choco install azure-data-studio
+
+
+
+# Ubunut
+
+#### Azure CLI
+curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
