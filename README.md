@@ -141,19 +141,20 @@ choco install microsoftazurestorageexplorer -y
 choco install azure-cosmosdb-emulator -y
 
 ##### Microsoft AzureCosmosEmulator
-choco install azure-cosmosdb-emulator
+choco install azure-cosmosdb-emulator -y
 
 
 ##### Azure Data Studio
-choco install azure-data-studio
+choco install azure-data-studio -y
 
 
 ##### Azure CLI
-choco install azure-cli
+choco install azure-cli -y
 
 
 ##### Power BI
-choco install powerbi
+choco install powerbi -y
+
 
 # non work related
 
