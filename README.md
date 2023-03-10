@@ -223,6 +223,90 @@ winget install -e --id Splashtop.SplashtopWiredXDisplay
 ##### Google Drive
 winget install -e --id Google.Drive
 
+# VS code Extentions
+```
+code --install-extension aaron-bond.better-comments
+code --install-extension aaronthomas.vscode-snazzy-operator
+code --install-extension ahmadalli.vscode-nginx-conf
+code --install-extension andrejunges.Handlebars
+code --install-extension Azurite.azurite
+code --install-extension christian-kohler.npm-intellisense
+code --install-extension christian-kohler.path-intellisense
+code --install-extension cosminalco.pomodoro
+code --install-extension cschleiden.vscode-github-actions
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension dsznajder.es7-react-js-snippets
+code --install-extension dzannotti.vscode-babel-coloring
+code --install-extension dzhavat.bracket-pair-toggler
+code --install-extension eg2.vscode-npm-script
+code --install-extension esbenp.prettier-vscode
+code --install-extension formulahendry.auto-close-tag
+code --install-extension GitHub.github-vscode-theme
+code --install-extension GitHub.vscode-pull-request-github
+code --install-extension hashicorp.terraform
+code --install-extension humao.rest-client
+code --install-extension icrawl.discord-vscode
+code --install-extension jebbs.plantuml
+code --install-extension jock.svg
+code --install-extension kisstkondoros.vscode-gutter-preview
+code --install-extension mongodb.mongodb-vscode
+code --install-extension ms-azure-devops.azure-pipelines
+code --install-extension ms-azuretools.azure-dev
+code --install-extension ms-azuretools.vscode-azureappservice
+code --install-extension ms-azuretools.vscode-azurefunctions
+code --install-extension ms-azuretools.vscode-azureresourcegroups
+code --install-extension ms-azuretools.vscode-azurestorage
+code --install-extension ms-azuretools.vscode-azurevirtualmachines
+code --install-extension ms-azuretools.vscode-bicep
+code --install-extension ms-azuretools.vscode-cosmosdb
+code --install-extension ms-azuretools.vscode-docker
+code --install-extension ms-dotnettools.csharp
+code --install-extension ms-dotnettools.vscode-dotnet-runtime
+code --install-extension ms-kubernetes-tools.vscode-aks-tools
+code --install-extension ms-kubernetes-tools.vscode-kubernetes-tools
+code --install-extension ms-mssql.data-workspace-vscode
+code --install-extension ms-mssql.mssql
+code --install-extension ms-mssql.sql-bindings-vscode
+code --install-extension ms-mssql.sql-database-projects-vscode
+code --install-extension ms-playwright.playwright
+code --install-extension ms-python.isort
+code --install-extension ms-python.python
+code --install-extension ms-python.vscode-pylance
+code --install-extension ms-toolsai.jupyter
+code --install-extension ms-toolsai.jupyter-keymap
+code --install-extension ms-toolsai.jupyter-renderers
+code --install-extension ms-toolsai.vscode-jupyter-cell-tags
+code --install-extension ms-toolsai.vscode-jupyter-slideshow
+code --install-extension ms-vscode-remote.remote-containers
+code --install-extension ms-vscode-remote.remote-ssh-edit
+code --install-extension ms-vscode-remote.remote-wsl
+code --install-extension ms-vscode.azure-account
+code --install-extension ms-vscode.azurecli
+code --install-extension ms-vscode.powershell
+code --install-extension ms-vscode.vscode-node-azure-pack
+code --install-extension ms-vsliveshare.vsliveshare
+code --install-extension ms-vsliveshare.vsliveshare-audio
+code --install-extension ms-vsliveshare.vsliveshare-pack
+code --install-extension msazurermtools.azurerm-vscode-tools
+code --install-extension Orta.vscode-jest
+code --install-extension paulober.pico-w-go
+code --install-extension PKief.material-icon-theme
+code --install-extension Pluralsight.pluralsight
+code --install-extension pranaygp.vscode-css-peek
+code --install-extension rangav.vscode-thunder-client
+code --install-extension redhat.ansible
+code --install-extension redhat.vscode-yaml
+code --install-extension ritwickdey.LiveServer
+code --install-extension sdras.night-owl
+code --install-extension shardulm94.trailing-spaces
+code --install-extension TabNine.tabnine-vscode
+code --install-extension TeamsDevApp.ms-teams-vscode-extension
+code --install-extension TTOOWA.in-your-face-incredible
+code --install-extension VisualStudioExptTeam.intellicode-api-usage-examples
+code --install-extension VisualStudioExptTeam.vscodeintellicode
+code --install-extension vscode-icons-team.vscode-icons
+code --install-extension WakaTime.vscode-wakatime
+```
 
 # Ubunut
 
