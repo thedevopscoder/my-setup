@@ -160,6 +160,9 @@ choco install sql-server-management-studio -y
 #### Visual Studio Code
 choco install vscode -y
 
+#### Helm Install
+choco install kubernetes-helm
+
 # Additional Setups
 
 # Install Posh-Git
