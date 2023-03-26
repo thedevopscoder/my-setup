@@ -140,6 +140,10 @@ choco install spotify -y
 ##### Postman
 choco install postman -y
 
+##### Terraform
+
+choco install terraform -y
+
 
 ##### Notepad ++
 choco install notepadplusplus -y
