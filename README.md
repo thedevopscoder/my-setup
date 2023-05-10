@@ -144,6 +144,9 @@ choco install postman -y
 
 choco install terraform -y
 
+##### Golang
+choco install golang
+
 
 ##### Notepad ++
 choco install notepadplusplus -y
