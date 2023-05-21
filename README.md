@@ -120,6 +120,9 @@ choco install powershell-core -y
 ##### minikube
 choco install minikube -y
 
+##### k3d
+choco install k3d -y
+
 ##### Azure CLI
 choco install azure-cli -y
 
