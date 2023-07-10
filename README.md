@@ -101,6 +101,10 @@ choco install googlechrome
 choco install nodejs-lts
 
 
+#### Graphviz
+choco install graphviz -y
+
+
 #### Azure Storage Explorer
 choco install microsoftazurestorageexplorer -y
 
