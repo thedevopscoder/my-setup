@@ -325,7 +325,7 @@ code --install-extension vscode-icons-team.vscode-icons
 code --install-extension WakaTime.vscode-wakatime
 ```
 
-# Ubunut
+# Ubuntu
 
 #### Azure CLI
 curl -sL https://aka.ms/InstallAzureCLIDeb | sudo bash
