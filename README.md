@@ -114,6 +114,8 @@ choco install azure-cosmosdb-emulator -y
 ##### Microsoft AzureCosmosEmulator
 choco install azure-cosmosdb-emulator -y
 
+#### Yarn
+choco install yarn -y
 
 ##### Azure Data Studio
 choco install azure-data-studio -y
