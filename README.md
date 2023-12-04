@@ -3,8 +3,8 @@
 
 ## 📖 Table of Contents
 - [💾 Macbook](#computer-macbook)
-- [💻 Mac Setup](#-picker)
-- [🙃 Emoji component](#-emoji-component)
+- [:computer: Windows](#-Windows-Laptop)
+- [:computer:](#-emoji-component)
 - 
 
 
