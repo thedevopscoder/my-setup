@@ -1,55 +1,14 @@
 # DevOps Engineer Setup
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gghgh&label=Profile%20views&color=0e75b6&style=flat" alt="gghgh" /> </p>
 
-## Macbook
+## 📖 Table of Contents
+- [💾 Data](#-Macbook)
+- [💻 Mac Setup](#-picker)
+- [🙃 Emoji component](#-emoji-component)
+- 
 
 
-### Brew Install
-
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-
-### Google Chrome
-brew install --cask google-chrome
-
-### Spotify
-
-brew install --cask spotify
-
-
-### NodeJS
-
-brew install node
-
-### Visual Studio Coder
-
-brew install --cask visual-studio-code
-
-### Draw IO
-
-brew install --cask drawio
-
-### Postman
-
-brew install --cask postman
-
-### Docker
-
-brew install docker
-
-### K3D
-
-curl -s https://raw.githubusercontent.com/k3d-io/k3d/main/install.sh | TAG=v5.0.0 bash
-
-### Slack
-
-brew install --cask slack
-
-### Helm
-
-brew install helm
-
-## Windows Laptop
-
+### :computer: Windows Laptop
 
 #### Spotify
 winget install --id=Spotify.Spotify  -e
@@ -130,8 +89,6 @@ choco install azcopy10 -y
 
 #### SQL Server Management Studio
 winget install --id Microsoft.SQLServerManagementStudio -e --source winget
-
-
 
 # chocolatey
 
@@ -226,7 +183,7 @@ choco install kubernetes-helm
 Install-Module posh-git -Scope CurrentUser -Force
 Add-PoshGitToProfile -AllUsers -AllHosts
 
-# non work related
+# :fire: Non work related
 
 #### Etcher
 choco install etcher -y
@@ -367,6 +324,53 @@ code --install-extension VisualStudioExptTeam.vscodeintellicode
 code --install-extension vscode-icons-team.vscode-icons
 code --install-extension WakaTime.vscode-wakatime
 ```
+
+### :computer: Macbook
+
+
+### Brew Install
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+### Google Chrome
+brew install --cask google-chrome
+
+### Spotify
+
+brew install --cask spotify
+
+
+### NodeJS
+
+brew install node
+
+### Visual Studio Coder
+
+brew install --cask visual-studio-code
+
+### Draw IO
+
+brew install --cask drawio
+
+### Postman
+
+brew install --cask postman
+
+### Docker
+
+brew install docker
+
+### K3D
+
+curl -s https://raw.githubusercontent.com/k3d-io/k3d/main/install.sh | TAG=v5.0.0 bash
+
+### Slack
+
+brew install --cask slack
+
+### Helm
+
+brew install helm
 
 # Ubuntu
 
