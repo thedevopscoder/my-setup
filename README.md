@@ -4,9 +4,8 @@
 ## 📖 Table of Contents
 - [:computer: Mac book](#computer-macbook)
 - [:computer: Windows](#computer-windows-laptop)
-- [:fire: Non Work Related](#🔥-non-work-related)
+- [:fire: Non Work Related](#fire-non-work-related)
   
-🔥 Non work related
 
 ### :computer: Windows Laptop
 Content related to Windows laptop setup goes here.
@@ -184,7 +183,7 @@ choco install kubernetes-helm
 Install-Module posh-git -Scope CurrentUser -Force
 Add-PoshGitToProfile -AllUsers -AllHosts
 
-# :fire: Non work-related
+## :fire: Non work-related
 
 #### Etcher
 choco install etcher -y
