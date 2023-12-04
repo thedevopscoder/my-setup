@@ -2,11 +2,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gghgh&label=Profile%20views&color=0e75b6&style=flat" alt="gghgh" /> </p>
 
 ## 📖 Table of Contents
-- [💾 Macbook](#computer-macbook)
+- [:computer: Mac book](#computer-macbook)
 - [:computer: Windows](#computer-windows-laptop)
-- [:computer:](#-emoji-component)
-- 
-
+- [:fire: Non Work Related](#🔥-non-work-related)
+  
+🔥 Non work related
 
 ### :computer: Windows Laptop
 Content related to Windows laptop setup goes here.
@@ -184,7 +184,7 @@ choco install kubernetes-helm
 Install-Module posh-git -Scope CurrentUser -Force
 Add-PoshGitToProfile -AllUsers -AllHosts
 
-# :fire: Non work related
+# :fire: Non work-related
 
 #### Etcher
 choco install etcher -y
