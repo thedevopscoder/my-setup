@@ -3,7 +3,7 @@
 
 ## 📖 Table of Contents
 - [💾 Macbook](#computer-macbook)
-- [:computer: Windows](#Windows-Laptop)
+- [:computer: Windows](#-Windows-Laptop)
 - [:computer:](#-emoji-component)
 - 
 
