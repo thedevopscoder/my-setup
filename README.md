@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gghgh&label=Profile%20views&color=0e75b6&style=flat" alt="gghgh" /> </p>
 
 ## 📖 Table of Contents
-- [💾 Macbook](#-macbook)
+- [💾 Macbook](#computer-macbook)
 - [💻 Mac Setup](#-picker)
 - [🙃 Emoji component](#-emoji-component)
 - 
