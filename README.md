@@ -325,7 +325,7 @@ code --install-extension vscode-icons-team.vscode-icons
 code --install-extension WakaTime.vscode-wakatime
 ```
 
-### :computer: Macbook
+## :computer: Macbook
 
 
 ### Brew Install
