@@ -9,6 +9,7 @@
 
 
 ### :computer: Windows Laptop
+Content related to Windows laptop setup goes here.
 
 #### Spotify
 winget install --id=Spotify.Spotify  -e
