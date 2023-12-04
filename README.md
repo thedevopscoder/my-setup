@@ -44,6 +44,10 @@ curl -s https://raw.githubusercontent.com/k3d-io/k3d/main/install.sh | TAG=v5.0.
 
 brew install --cask slack
 
+### Helm
+
+brew install helm
+
 ## Windows Laptop
 
 
