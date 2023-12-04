@@ -1,6 +1,37 @@
 # DevOps Engineer Setup
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gghgh&label=Profile%20views&color=0e75b6&style=flat" alt="gghgh" /> </p>
 
+## Macbook
+
+
+### Brew Install
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+
+### Google Chrome
+brew install --cask google-chrome
+
+### Spotify
+
+brew install --cask spotify
+
+
+### NodeJS
+
+brew install node
+
+### Visual Studio Coder
+
+brew install --cask visual-studio-code
+
+### Draw IO
+
+brew install --cask drawio
+
+### Postman
+
+brew install --cask postman
+
 ## Windows Laptop
 
 
@@ -53,13 +84,8 @@ winget install -e --id NickeManarin.ScreenToGif
 ##### Postman
 winget install -e --id Postman.Postman
 
-
-
-
 ##### Notepad ++
 winget install --id Notepad++.Notepad++ -e --source winget
-
-
 
 ##### Git
 winget install -e --id Git.Git
@@ -69,7 +95,6 @@ winget install -e --id Microsoft.GitCredentialManagerCore
 
 ##### Visual Studio Code
 winget install --id Microsoft.VisualStudioCode -e --source winget
-
 
 
 ##### Draw io
