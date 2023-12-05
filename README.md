@@ -372,6 +372,10 @@ brew install --cask slack
 
 brew install helm
 
+### PowerShell
+
+brew install powershell/tap/powershell
+
 # Ubuntu
 
 #### Azure CLI
