@@ -376,6 +376,11 @@ brew install helm
 
 brew install powershell/tap/powershell
 
+
+### AWS CLi
+
+https://awscli.amazonaws.com/AWSCLIV2.pkg
+
 # Ubuntu
 
 #### Azure CLI
