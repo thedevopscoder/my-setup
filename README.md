@@ -192,6 +192,9 @@ choco install etcher -y
 #### Steam
 choco install steam -y
 
+#### streamlabs
+choco install streamlabs-obs -y
+
 ##### Lnes Kubernetes
 winget install -e --id Mirantis.Lens
 
