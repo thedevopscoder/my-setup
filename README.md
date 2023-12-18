@@ -13,7 +13,6 @@ Content related to Windows laptop setup goes here.
 #### Spotify
 winget install --id=Spotify.Spotify  -e
 
-
 #### NodeJS 16.12.0
 winget install --id=OpenJS.NodeJS.LTS  -e --accept-package-agreements --accept-source-agreements
 
@@ -25,6 +24,9 @@ choco install yarn -y
 
 #### Google Chrome
 winget install -e --id Google.Chrome
+
+### Insomnia - API & Testing
+https://app.insomnia.rest/app/dashboard/organizations
 
 
 ### Azure 
