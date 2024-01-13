@@ -104,6 +104,12 @@ choco install minikube -y
 ```
 choco install k3d -y
 ```
+
+#### kind
+```
+choco install kind -y
+```
+
 ##### Notepad ++
 ```
 choco install notepadplusplus -y
