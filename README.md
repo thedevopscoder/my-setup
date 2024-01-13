@@ -120,9 +120,11 @@ choco install kubernetes-helm -y
 ```
 
 
-
-
-
+### Insomnia - API & Testing
+```
+choco install insomnia-rest-api-client -y
+```
+_https://app.insomnia.rest/app/dashboard/organizations_
 
 
 #### Yarn
@@ -163,8 +165,6 @@ choco install sql-server-management-studio -y
 #### Google Chrome
 winget install -e --id Google.Chrome
 
-### Insomnia - API & Testing
-https://app.insomnia.rest/app/dashboard/organizations
 
 
 ### Azure 
