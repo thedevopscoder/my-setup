@@ -17,26 +17,113 @@ Content related to Windows laptop setup goes here.
 choco install googlechrome
 ```
 
-#### Node.js
-choco install nodejs-lts
+#### Visual Studio Code
+```
+choco install vscode -y
+```
 
 #### WinSSH
-
-choco install winsshterm
-
+```
+choco install winsshterm -y
+```
 
 #### Graphviz
+```
 choco install graphviz -y
+```
 
+#### Node Version Manager
+```
+choco install nodist -y
+```
+_https://github.com/nodists/nodist_
+
+#### Screen to Gif
+```
+choco install screentogif.install -y
+```
+
+##### Azure CLI
+```
+choco install azure-cli -y
+```
+
+#### PowerShell Az
+```
+choco install az.powershell -y
+```
 
 #### Azure Storage Explorer
+```
 choco install microsoftazurestorageexplorer -y
+```
 
 ##### Microsoft AzureCosmosEmulator
+```
 choco install azure-cosmosdb-emulator -y
+```
 
-##### Microsoft AzureCosmosEmulator
-choco install azure-cosmosdb-emulator -y
+
+#### PowerShell Core
+```
+choco install powershell-core -y
+```
+
+##### Golang
+```
+choco install golang -y
+```
+
+
+#### Spotify
+```
+choco install spotify -y
+```
+
+##### Postman
+```
+choco install postman -y
+```
+
+#### Git
+```
+choco install git -y
+```
+
+##### Git Credential Manager
+```
+choco install git-credential-manager-for-windows -y
+```
+
+##### minikube
+```
+choco install minikube -y
+```
+
+##### k3d
+```
+choco install k3d -y
+```
+##### Notepad ++
+```
+choco install notepadplusplus -y
+```
+
+#### KubeLogin
+```
+choco install azure-kubelogin -y
+```
+
+#### Helm Install
+```
+choco install kubernetes-helm -y 
+```
+
+
+
+
+
+
 
 #### Yarn
 choco install yarn -y
@@ -44,78 +131,32 @@ choco install yarn -y
 ##### Azure Data Studio
 choco install azure-data-studio -y
 
-#### PowerShell Core
-choco install powershell-core -y
 
-##### minikube
-choco install minikube -y
 
-##### k3d
-choco install k3d -y
 
-##### Azure CLI
-choco install azure-cli -y
 
-#### PowerShell Az
-choco install az.powershell -y
 
 
 ##### Power BI
 choco install powerbi -y
 
-#### Screen to Gif
-choco install screentogif.install -y
-
-#### Spotify
-choco install spotify -y
 
 
-##### Postman
-choco install postman -y
 
 ##### Terraform
 
 choco install terraform -y
 
-##### Golang
-choco install golang
 
 
-##### Notepad ++
-choco install notepadplusplus -y
 
-#### Git
-choco install git -y
-
-
-##### Git Credential Manager
-choco install git-credential-manager-for-windows -y
-
-#### KubeLogin
-choco install azure-kubelogin -y
 
 #### SQL Server Management Studio
+```
 choco install sql-server-management-studio -y
+```
 
-#### Visual Studio Code
-choco install vscode -y
-
-#### Helm Install
-choco install kubernetes-helm
-
-
-#### Spotify
-winget install --id=Spotify.Spotify  -e
-
-#### Node Version Manager
-
-choco install nodist
-
-_https://github.com/nodists/nodist_
-
-### YARN
-
-choco install yarn -y
+---
 
 ### Winget
 
@@ -136,6 +177,9 @@ winget install -e --id Microsoft.AzureStorageEmulator
 
 ##### Azure Data Studio
 winget install --id Microsoft.AzureDataStudio -e --source winget
+
+#### Spotify
+winget install --id=Spotify.Spotify  -e
 
 
 ##### Azure CLI
