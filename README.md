@@ -16,6 +16,12 @@ winget install --id=Spotify.Spotify  -e
 #### NodeJS 16.12.0
 winget install --id=OpenJS.NodeJS.LTS  -e --accept-package-agreements --accept-source-agreements
 
+#### Node Version Manager
+
+choco install nodist
+
+_https://github.com/nodists/nodist_
+
 ### YARN
 
 choco install yarn -y
