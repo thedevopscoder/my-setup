@@ -14,7 +14,8 @@ Content related to Windows laptop setup goes here.
 
 #### Google Chrome
 ```
-choco install googlechrome --ignore-checksums```
+choco install googlechrome --ignore-checksums
+```
 
 #### Visual Studio Code
 ```
@@ -238,6 +239,11 @@ winget install --id Microsoft.SQLServerManagementStudio -e --source winget
 
 
 # Additional Setups
+
+### Google Drive
+```
+choco install googledrive -y
+```
 
 # Install Posh-Git
 Install-Module posh-git -Scope CurrentUser -Force
