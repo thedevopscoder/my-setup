@@ -14,8 +14,7 @@ Content related to Windows laptop setup goes here.
 
 #### Google Chrome
 ```
-choco install googlechrome
-```
+choco install googlechrome --ignore-checksums```
 
 #### Visual Studio Code
 ```
