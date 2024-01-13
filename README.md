@@ -10,11 +10,102 @@
 ### :computer: Windows Laptop
 Content related to Windows laptop setup goes here.
 
+# chocolatey
+
+#### Google Chrome
+```
+choco install googlechrome
+```
+
+#### Node.js
+choco install nodejs-lts
+
+#### WinSSH
+
+choco install winsshterm
+
+
+#### Graphviz
+choco install graphviz -y
+
+
+#### Azure Storage Explorer
+choco install microsoftazurestorageexplorer -y
+
+##### Microsoft AzureCosmosEmulator
+choco install azure-cosmosdb-emulator -y
+
+##### Microsoft AzureCosmosEmulator
+choco install azure-cosmosdb-emulator -y
+
+#### Yarn
+choco install yarn -y
+
+##### Azure Data Studio
+choco install azure-data-studio -y
+
+#### PowerShell Core
+choco install powershell-core -y
+
+##### minikube
+choco install minikube -y
+
+##### k3d
+choco install k3d -y
+
+##### Azure CLI
+choco install azure-cli -y
+
+#### PowerShell Az
+choco install az.powershell -y
+
+
+##### Power BI
+choco install powerbi -y
+
+#### Screen to Gif
+choco install screentogif.install -y
+
+#### Spotify
+choco install spotify -y
+
+
+##### Postman
+choco install postman -y
+
+##### Terraform
+
+choco install terraform -y
+
+##### Golang
+choco install golang
+
+
+##### Notepad ++
+choco install notepadplusplus -y
+
+#### Git
+choco install git -y
+
+
+##### Git Credential Manager
+choco install git-credential-manager-for-windows -y
+
+#### KubeLogin
+choco install azure-kubelogin -y
+
+#### SQL Server Management Studio
+choco install sql-server-management-studio -y
+
+#### Visual Studio Code
+choco install vscode -y
+
+#### Helm Install
+choco install kubernetes-helm
+
+
 #### Spotify
 winget install --id=Spotify.Spotify  -e
-
-#### NodeJS 16.12.0
-winget install --id=OpenJS.NodeJS.LTS  -e --accept-package-agreements --accept-source-agreements
 
 #### Node Version Manager
 
@@ -102,96 +193,6 @@ choco install azcopy10 -y
 #### SQL Server Management Studio
 winget install --id Microsoft.SQLServerManagementStudio -e --source winget
 
-# chocolatey
-
-#### Google Chrome
-choco install googlechrome
-
-#### Node.js
-choco install nodejs-lts
-
-#### WinSSH
-
-choco install winsshterm
-
-
-#### Graphviz
-choco install graphviz -y
-
-
-#### Azure Storage Explorer
-choco install microsoftazurestorageexplorer -y
-
-##### Microsoft AzureCosmosEmulator
-choco install azure-cosmosdb-emulator -y
-
-##### Microsoft AzureCosmosEmulator
-choco install azure-cosmosdb-emulator -y
-
-#### Yarn
-choco install yarn -y
-
-##### Azure Data Studio
-choco install azure-data-studio -y
-
-#### PowerShell Core
-choco install powershell-core -y
-
-##### minikube
-choco install minikube -y
-
-##### k3d
-choco install k3d -y
-
-##### Azure CLI
-choco install azure-cli -y
-
-#### PowerShell Az
-choco install az.powershell -y
-
-
-##### Power BI
-choco install powerbi -y
-
-#### Screen to Gif
-choco install screentogif.install -y
-
-#### Spotify
-choco install spotify -y
-
-
-##### Postman
-choco install postman -y
-
-##### Terraform
-
-choco install terraform -y
-
-##### Golang
-choco install golang
-
-
-##### Notepad ++
-choco install notepadplusplus -y
-
-#### Git
-choco install git -y
-
-
-##### Git Credential Manager
-choco install git-credential-manager-for-windows -y
-
-#### KubeLogin
-choco install azure-kubelogin -y
-
-#### SQL Server Management Studio
-choco install sql-server-management-studio -y
-
-#### Visual Studio Code
-choco install vscode -y
-
-#### Helm Install
-choco install kubernetes-helm
 
 # Additional Setups
 
