@@ -104,6 +104,10 @@ choco install googlechrome
 #### Node.js
 choco install nodejs-lts
 
+#### WinSSH
+
+choco install winsshterm
+
 
 #### Graphviz
 choco install graphviz -y
