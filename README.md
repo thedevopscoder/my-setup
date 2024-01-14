@@ -120,6 +120,11 @@ choco install notepadplusplus -y
 choco install azure-kubelogin -y
 ```
 
+#### Lens
+```
+choco install lens -y
+```
+
 #### Helm Install
 ```
 choco install kubernetes-helm -y 
