@@ -22,6 +22,11 @@ choco install googlechrome --ignore-checksums
 choco install vscode -y
 ```
 
+#### Putty
+```
+choco install putty
+```
+
 #### WinSSH
 ```
 choco install winsshterm -y
