@@ -4,6 +4,7 @@ metadata:
   name: my-setup
   annotations:
     backstage.io/kubernetes-id: here
+    github.com/project-slug: thedevopscoder/my-setup
   description: My Home PC Setup
   tags:
     - MarkDown
