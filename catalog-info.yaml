@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: my-setup
+  annotations:
+    backstage.io/kubernetes-id: here
+  description: My Home PC Setup
+  tags:
+    - MarkDown
+spec:
+  type: service
+  lifecycle: development
+  owner: doc
